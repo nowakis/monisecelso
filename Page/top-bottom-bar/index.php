@@ -85,7 +85,7 @@ require_once 'header.php';
             		</div>
         		</a>
                 
-                <audio id="audioID" src="audio/Ed_Sheeran_-_Photograph_Official.mp3"  loop> <!-- autoplay -->
+                <audio id="audioID" src="audio/Ed_Sheeran_-_Photograph_Official.mp3"  loop autoplay>
 					Your browser does not support the audio element.
 				</audio>
             </div>
