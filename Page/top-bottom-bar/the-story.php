@@ -53,7 +53,7 @@ require_once 'header.php';
             
   			<div class="slides">
     				<!-- SLIDE IMAGE -->
-                	<div data-stellar-ratio="0.5" class="slide-image" style="background-image:url(images/normal/NabananoSato-16.jpg); background-position:top">
+                	<div data-stellar-ratio="0.5" class="slide-image" style="background-image:url(images/normal/Shirakawa-Go-21.jpg); background-position:top left">
                     </div>
                     
                     <!-- SLIDE OVERLAY -->

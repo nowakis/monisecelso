@@ -62,7 +62,7 @@ require_once 'header.php';
                   <div class="slide-overlay" style="opacity:0.2"> </div> 
           </li>
           <li>
-                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/LittleWorld-39.jpg);"></div>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/LittleWorld-39.jpg); background-position:top center"></div>
                   <div class="slide-overlay" style="opacity:0.2"> </div> 
           </li>
           <li>
@@ -70,7 +70,7 @@ require_once 'header.php';
                   <div class="slide-overlay" style="opacity:0.2"> </div> 
           </li>  
           <li>
-                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/Shirakawa-Go-21.jpg);"></div>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/Shirakawa-Go-21.jpg); background-position:left"></div>
                   <div class="slide-overlay" style="opacity:0.2"> </div> 
           </li>  
   			</ul><!-- END of MAIN SLIDER IMAGES -->
