@@ -32,7 +32,7 @@ require_once "header.php";
                             			<p>
                         					Marília é um município situado na região centro-oeste do estado de São Paulo. Por conta de seu parque fabril no setor de alimentos é considerada Capital Nacional do Alimento. Diversas empresas de projeção nacional e internacional foram fundadas em Marília, como por exemplo o Banco Bradesco, Latam Airlines , Sasazaki, Marilan, Dori, Intercoffe ( Café América ) entre outras.</p>
 
-                                  <p>Apesar de Marília ser considerada uma cidade nova ( fundada em 1929 ), há cerca de 70 milhões de anos, a região onde se localiza a cidade foi habitada por dinossauros e animais pré-históricos fazendo com que a cidade se tornasse referência nacional também na área de paleontologia. Dentre os fósseis encontrados na região , se destacam um fóssil de um crocodilo primitivo da era dos dinossauros batizado de Mariliasuchus e um esqueleto semi-articulado de um grande herbívoro que viveu há 70 milhões de anos que conhecido como “Dino Titã de Marília”
+                                  <p>Apesar de Marília ser considerada uma cidade nova ( fundada em 1929 ), há cerca de 70 milhões de anos, a região onde se localiza a cidade foi habitada por dinossauros e animais pré-históricos fazendo com que a cidade se tornasse referência nacional também na área de paleontologia. Dentre os fósseis encontrados na região , se destacam um fóssil de um crocodilo primitivo da era dos dinossauros batizado de Mariliasuchus e um esqueleto semi-articulado de um grande herbívoro que viveu há 70 milhões de anos que ficou conhecido como "Dino Titã de Marília"
                        	 				</p>
                                         
 										<a href="#content" class="smooth-scroll">                                        	
@@ -72,121 +72,6 @@ require_once "header.php";
             <!-- CONTAINER -->            
            	<div class="container">
                 
-				<!-- PARAGRAPH LEAD TITLE -->
-				<div class="row">
-					<div class="col-md-offset-3 col-md-6 text-center">
-				
-						<div class="section-title">
-							<h2>SHOPPINGS</h2>
-													
-							<div class="heart-divider">
-								<span class="grey-line"></span>
-								<i class="de-icon-heart pink-heart"></i>
-								<i class="de-icon-heart grey-heart"></i>
-								<span class="grey-line"></span>
-							</div>
-						</div>
-					
-					</div>
-				</div><!-- END of PARAGRAPH LEAD TITLE -->    
-
-                <!-- BLOG -->
-            	<div class="row">
-                
-				
-                    <!-- BLOG ITEM-6 -->
-               		<div class="blog-wrapper col-md-4">
-                    
-                    	<!--PHOTO-ITEM-->
-                      	<div class="photo-item animation fadeIn">
-								
-                        	<!--PHOTO-->
-                            <img src="images/marilia/shopping-esmeralda.jpg" alt="" class="hover-animation image-zoom-in">
-                                            
-                            <!--PHOTO OVERLAY-->
-                           	<div class="layer wh100 hidden-black-overlay hover-animation fade-in">
-                            </div><!--END of PHOTO OVERLAY-->
-							
-						</div><!--END of PHOTO-ITEM--> 
-                                        
-                        <!-- TITLE & EXCERPT -->
-                        <div class="title-excerpt animation fadeIn">
-                        
-                        	<div class="de-icon circle very-small-size custom-heart-icon">
-            					<i class="de-icon-heart"></i>
-            				</div>
-                        	<h3>ESMERALDA SHOPPING</h3>
-                          	<p>Esmeralda Shopping de Marília</p>
-                            <p><a href="https://goo.gl/maps/fEs4QA4KjS32">Como chegar</a></p>
-                            
-                        </div><!-- END of TITLE & EXCERPT -->
-                        
-           			</div> <!-- END of BLOG ITEM-6 -->
-
-
-                    
-                    <!-- BLOG ITEM-3 -->
-               		<div class="blog-wrapper col-md-4">
-                    
-                    	<!--PHOTO-ITEM-->
-                      	<div class="photo-item animation fadeIn">
-								
-                        	<!--PHOTO-->
-                            <img src="images/marilia/marilia-shopping.jpg" alt="" class="hover-animation image-zoom-in">
-                                            
-                            <!--PHOTO OVERLAY-->
-                           	<div class="layer wh100 hidden-black-overlay hover-animation fade-in">
-                            </div><!--END of PHOTO OVERLAY-->
-                                									
-						</div><!--END of PHOTO-ITEM--> 
-                                        
-                        <!-- TITLE & EXCERPT -->
-                        <div class="title-excerpt animation fadeIn">
-                        
-                        	<div class="de-icon circle very-small-size custom-heart-icon">
-            					<i class="de-icon-heart"></i>
-            				</div>
-                        	<h3>MARÍLIA SHOPPING</h3>
-                          	<p>O Marília Shopping é o maior centro comercial de Marília e região</p>
-                            <p><a href="https://goo.gl/maps/nb4MUTZYMxy">Como chegar</a></p>
-                            
-                        </div><!-- END of TITLE & EXCERPT -->
-                        
-           			</div> <!-- END of BLOG ITEM-3 -->
-
-
-
-					
-                    <!-- BLOG ITEM-3 -->
-               		<div class="blog-wrapper col-md-4">
-                    
-                    	<!--PHOTO-ITEM-->
-                      	<div class="photo-item animation fadeIn">
-								
-                        	<!--PHOTO-->
-                            <img src="images/marilia/galeria-atenas.jpg" alt="" class="hover-animation image-zoom-in">
-                                            
-                            <!--PHOTO OVERLAY-->
-                           	<div class="layer wh100 hidden-black-overlay hover-animation fade-in">
-                            </div><!--END of PHOTO OVERLAY-->
-                                									
-						</div><!--END of PHOTO-ITEM--> 
-                                        
-                        <!-- TITLE & EXCERPT -->
-                        <div class="title-excerpt animation fadeIn">
-                        
-                        	<div class="de-icon circle very-small-size custom-heart-icon">
-            					<i class="de-icon-heart"></i>
-            				</div>
-                        	<h3><a href="#">GALERIA ATENAS</a></h3>
-                          	<p>Centro comercial no centro da cidade</p>
-                            <a href="https://goo.gl/maps/v2HJ5AiMhM42">Como chegar</a>
-                            
-                        </div><!-- END of TITLE & EXCERPT -->
-                        
-           			</div> <!-- END of BLOG ITEM-3 -->
-				
-				</div>
 
 <?php /*
 				<!-- PARAGRAPH LEAD TITLE -->
