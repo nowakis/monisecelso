@@ -47,8 +47,46 @@ require_once 'header.php';
             <!-- MAIN SLIDER IMAGES -->
             
   			<ul class="slides">
+          <li>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/foto-101.jpg); background-position:left"></div>
+                  <div class="slide-overlay" style="opacity:0.2"> </div> 
+          </li>  
+          <li>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/foto-29.jpg); background-position:left"></div>
+                  <div class="slide-overlay" style="opacity:0.2"> </div> 
+          </li>  
+          <li>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/foto-68.jpg); background-position:left"></div>
+                  <div class="slide-overlay" style="opacity:0.2"> </div> 
+          </li>  
+          <li>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/foto-71.jpg); background-position:left"></div>
+                  <div class="slide-overlay" style="opacity:0.2"> </div> 
+          </li>  
+          <li>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/foto-75.jpg); background-position:left"></div>
+                  <div class="slide-overlay" style="opacity:0.2"> </div> 
+          </li>  
+          <li>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/foto-82.jpg); background-position:left"></div>
+                  <div class="slide-overlay" style="opacity:0.2"> </div> 
+          </li>  
+          <li>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/foto-85.jpg); background-position:left"></div>
+                  <div class="slide-overlay" style="opacity:0.2"> </div> 
+          </li>  
+          <li>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/foto-89.jpg); background-position:left"></div>
+                  <div class="slide-overlay" style="opacity:0.2"> </div> 
+          </li>  
+          <li>
+                  <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/foto-99.jpg); background-position:left"></div>
+                  <div class="slide-overlay" style="opacity:0.2"> </div> 
+          </li>  
+
 
 <!-- SLIDE IMAGE -->  
+<?php /*
           <li>
                   <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/Shirakawa-Go-21.jpg); background-position:left"></div>
                   <div class="slide-overlay" style="opacity:0.2"> </div> 
@@ -73,7 +111,7 @@ require_once 'header.php';
                   <div data-stellar-ratio="0.5" class="slide-image loop-animation zoom" style="background-image:url(images/normal/NabananoSato-16.jpg);"></div>
                   <div class="slide-overlay" style="opacity:0.2"> </div> 
           </li>  
-
+*/ ?>
   			</ul><!-- END of MAIN SLIDER IMAGES -->
             
             
