@@ -2,7 +2,7 @@
         
         <!-- FOOTER SECTION -->
             <footer>
-            	<div class="image-divider fixed-height" style="background-image:url(images/normal/foto-94.jpg);" data-stellar-background-ratio="0.5" >
+            	<div class="image-divider fixed-height" style="background-image:url(images/normal/foto-94-resized.jpg);" data-stellar-background-ratio="0.5" >
                 
                 	<div class="divider-overlay"></div>
                     
